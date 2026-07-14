@@ -11,6 +11,5 @@ class Solution(object):
                 count+=1
             else:
                 count-=1
-        if nums.count(candidate)>n//2:
-            return candidate                
+        return candidate              
         
