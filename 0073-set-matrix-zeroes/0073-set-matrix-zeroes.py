@@ -23,7 +23,7 @@ class Solution(object):
                         matrix[0][j]=0
                 elif j==0:
                     if col0==0:
-                        matrix[i][j]=0
+                        matrix[i][0]=0
                         
 
         
