@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Harshon20/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harshon20/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshon20/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/Harshon20/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshon20/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshon20/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Harshon20/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
