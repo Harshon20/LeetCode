@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0018-4sum](https://github.com/Harshon20/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Harshon20/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Harshon20/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Harshon20/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Harshon20/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Harshon20/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
@@ -90,5 +91,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Harshon20/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Harshon20/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
