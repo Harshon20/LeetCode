@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Harshon20/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harshon20/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshon20/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Harshon20/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshon20/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -100,5 +101,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Harshon20/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshon20/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Harshon20/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
