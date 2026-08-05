@@ -116,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Harshon20/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harshon20/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Harshon20/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
