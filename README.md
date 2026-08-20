@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Harshon20/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Harshon20/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshon20/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Harshon20/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Harshon20/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshon20/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Harshon20/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Harshon20/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Harshon20/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshon20/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Harshon20/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harshon20/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Harshon20/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshon20/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshon20/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Harshon20/LeetCode/tree/main/0162-find-peak-element/) | Medium |
