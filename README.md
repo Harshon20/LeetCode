@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harshon20/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Harshon20/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Harshon20/LeetCode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Harshon20/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshon20/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshon20/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Harshon20/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Harshon20/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshon20/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
