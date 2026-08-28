@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshon20/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Harshon20/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0796-rotate-string](https://github.com/Harshon20/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Harshon20/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Harshon20/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshon20/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -173,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshon20/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Harshon20/LeetCode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
