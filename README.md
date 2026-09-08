@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Harshon20/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Harshon20/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Harshon20/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Harshon20/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
